@@ -1,0 +1,5 @@
+{
+	"ip":"WarriorAayam.aternos.me",
+	"port": "62422",
+	"name": "afkbot"
+}
